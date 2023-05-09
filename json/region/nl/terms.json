@@ -1,0 +1,4 @@
+{
+    "terms" : ["l svm","l water"],
+    "links" : {"l svm" : "foam", "l water" : "water"}
+}

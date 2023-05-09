@@ -1,0 +1,4 @@
+{
+    "terms" : ["l. Wasser", "l/min pumpenleistung"],
+    "links" : {"l. Wasser" : "water", "l/min pumpenleistung" : "pumpcap"}
+}
